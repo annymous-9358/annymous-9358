@@ -1,4 +1,36 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Kunik Jain 👋</h1>
+<h3 align="center">A passionate Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=annymous-9358&label=Profile%20views&color=0e75b6&style=flat" alt="annymous-9358" /> </p>
+
+- 🔭 I'm currently working on **Web Development Projects**
+
+- 🌱 I'm currently learning **Advanced JavaScript and React.js**
+
+- 👯 I'm looking to collaborate on **Open Source Projects**
+
+- 🤔 I'm looking for help with **Backend Development and DevOps**
+
+- 💬 Ask me about **Frontend Development, JavaScript, and Programming**
+
+- 📫 How to reach me **Feel free to connect with me on social platforms**
+
+- 😄 Pronouns: **He/Him**
+
+- ⚡ Fun fact: **I love solving coding challenges and building creative projects**
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annymous-9358" alt="annymous-9358" /></a> </p>
+
+---
+
+### 📊 GitHub Statsi there, I'm [Your Name] 👋</h1>
 <h3 align="center">A passionate [Your Profession] from [Your Location]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
@@ -21,9 +53,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunik-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunik-jain" height="30" width="40" /></a>
+<a href="https://twitter.com/annymous9358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="annymous9358" height="30" width="40" /></a>
+<a href="https://instagram.com/kunik.jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunik.jain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,8 +73,8 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact" alt="your-github-username" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annymous-9358&show_icons=true&locale=en&layout=compact" alt="annymous-9358" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="your-github-username" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annymous-9358&show_icons=true&locale=en" alt="annymous-9358" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="your-github-username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annymous-9358&" alt="annymous-9358" /></p>
