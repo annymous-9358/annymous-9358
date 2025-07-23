@@ -4,14 +4,12 @@
 
 </div>
 
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 10px;">
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Kunik+Jain+%F0%9F%91%8B&background=0D1117" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Kunik+Jain+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+MERN+Stack+Expert;Building+Scalable+Web+Applications;Code+Enthusiast+%7C+Problem+Solver&background=0D1117" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+MERN+Stack+Expert;Building+Scalable+Web+Applications;Code+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </h3>
 
 <h4 align="center">
@@ -19,7 +17,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CDD6F4&size=18&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89;MERN+Stack+Developer+%7C+React+Enthusiast;Building+Amazing+Web+Experiences+%F0%9F%92%A1;Always+learning+new+technologies+%F0%9F%93%9A;Let's+build+something+amazing+together!+%F0%9F%9A%80&background=0D1117" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CDD6F4&size=18&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89;MERN+Stack+Developer+%7C+React+Enthusiast;Building+Amazing+Web+Experiences+%F0%9F%92%A1;Always+learning+new+technologies+%F0%9F%93%9A;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center"> 
@@ -218,7 +216,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=const+developer+%3D+%7B;++name%3A+'Kunik+Jain'%2C;++skills%3A+%5B'MERN'%2C+'React'%2C+'Node.js'%5D%2C;++passion%3A+'Building+amazing+web+apps'%2C;++coffee%3A+true;%7D%3B&background=0D1117" alt="Code Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=const+developer+%3D+%7B;++name%3A+'Kunik+Jain'%2C;++skills%3A+%5B'MERN'%2C+'React'%2C+'Node.js'%5D%2C;++passion%3A+'Building+amazing+web+apps'%2C;++coffee%3A+true;%7D%3B" alt="Code Typing SVG" />
 
 #### 🎯 Current Mission
 ```javascript
@@ -247,7 +245,7 @@ const currentGoals = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%AD%90;Let's+connect+and+build+amazing+things+together!;Happy+Coding!+%F0%9F%9A%80&background=0D1117" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%AD%90;Let's+connect+and+build+amazing+things+together!;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing SVG" />
 
 ### Show some ❤️ by starring my repositories!
 
@@ -257,6 +255,4 @@ const currentGoals = {
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-</div>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
