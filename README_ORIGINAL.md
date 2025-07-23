@@ -1,11 +1,3 @@
-<div align="center">
-
-![Dark Background](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-</div>
-
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 10px;">
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Kunik+Jain+%F0%9F%91%8B&background=0D1117" alt="Typing SVG" />
 </h1>
@@ -32,9 +24,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding GIF"/>
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🎯 About Me
 
@@ -56,13 +48,15 @@
 
 <br clear="both" />
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
 ### 🚀 Featured Projects
 
-<table width="100%" style="background: #0d1117; border-radius: 10px;">
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" style="padding: 20px;">
+<td width="50%">
 <h3 align="center">🛒 ShopZone</h3>
 <div align="center">  
 <a href="https://github.com/annymous-9358/shopzone" target="_blank"><img src="https://img.shields.io/badge/View%20Code-00D4AA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View Code"/></a>
@@ -76,7 +70,7 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" alt="Express.js"/>
 </p>
 </td>
-<td width="50%" style="padding: 20px;">
+<td width="50%">
 <h3 align="center">📝 Notepad</h3>
 <div align="center">
 <a href="https://github.com/annymous-9358/notePadAtomic" target="_blank"><img src="https://img.shields.io/badge/View%20Code-64FFDA?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="View Code"/></a>
@@ -91,7 +85,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" style="padding: 20px;">
+<td width="50%">
 <h3 align="center">💪 Act4Fitness</h3>
 <div align="center">
 <a href="https://github.com/annymous-9358/act4fitness" target="_blank"><img src="https://img.shields.io/badge/View%20Code-CDD6F4?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="View Code"/></a>
@@ -105,7 +99,7 @@
 <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white&labelColor=0D1117" alt="Chart.js"/>
 </p>
 </td>
-<td width="50%" style="padding: 20px;">
+<td width="50%">
 <h3 align="center">🚀 More Projects</h3>
 <div align="center">
 <a href="https://github.com/annymous-9358?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20All-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore All"/></a>
@@ -119,7 +113,9 @@
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+</div>
+
+---
 
 ### 🤝 Connect with me:
 <p align="center">
@@ -137,7 +133,7 @@
 </a>
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
 ### 🛠️ MERN Stack & Technologies:
 
@@ -185,7 +181,7 @@
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
 ### 🏆 GitHub Trophies
 <p align="center"> 
@@ -194,7 +190,7 @@
   </a> 
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
 ### 📊 GitHub Analytics
 
@@ -207,12 +203,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annymous-9358&theme=dark&background=0d1117&border=30363d&stroke=00d4aa&ring=64ffda&fire=ff6b6b&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=00d4aa&sideLabels=64ffda&dates=8b949e" alt="annymous-9358" />
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
 ### 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=annymous-9358&theme=github-dark&bg_color=0d1117&color=cdd6f4&line=00d4aa&point=64ffda&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
 ### 💫 Code & Coffee Zone
 
@@ -235,11 +231,11 @@ const currentGoals = {
 - 🏏 **Cricket Fan**: Never miss an IPL match
 - 📚 **Tech Reader**: Always reading about latest web technologies
 - 🎵 **Music Lover**: Coding with beats in background
-- 🌙 **Night Owl**: Best code is written after midnight
+- � **Night Owl**: Best code is written after midnight
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&color=cdd6f4&quote_color=00d4aa" alt="Random Dev Quote"/>
@@ -254,9 +250,5 @@ const currentGoals = {
 <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-00D4AA?style=for-the-badge&labelColor=0D1117" alt="Made with love and coffee"/>
 
 *"First, solve the problem. Then, write the code."* – John Johnson
-
-</div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 </div>
