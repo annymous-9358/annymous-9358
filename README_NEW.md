@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kunik Jain 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | 💻 Code Enthusiast | 🌟 Problem Solver</h3>
-<h4 align="center">📍 Ahmedabad 🇮🇳</h4>
+<h4 align="center">📍 Pan India (Jaipur • Ahmedabad • Pune) 🇮🇳</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&size=22&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+🎉;Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications+💡;Always+learning+new+technologies+📚;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
